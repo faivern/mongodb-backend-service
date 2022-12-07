@@ -142,6 +142,3 @@ public class Stub {
 	}
 
 }
-
-//count documents that match with search
-//if count < 0 return false
